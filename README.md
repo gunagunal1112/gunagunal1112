@@ -1,6 +1,6 @@
 # Hi, I'm Gunal Kumar 👋
 
-**Data Engineer** | Building scalable data platforms on AWS
+**Data & AI Engineer** | Building scalable data platforms on AWS
 
 I design and implement production-grade data engineering systems — from real-time streaming pipelines to batch ETL frameworks — with a focus on reliability, security, and clean architecture.
 
